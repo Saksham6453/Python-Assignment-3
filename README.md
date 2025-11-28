@@ -4,14 +4,14 @@ This project helps manage books, members, borrowing, and returning activities, w
 
 Features-
 
-Add new books to the library
-Register new members
-Borrow and return books
-Track book availability
-Store and load all data using JSON files
-Auto-generate a library analytics report:
-Total books
-Available and borrowed books
-Total members
-Active members
-Most borrowed book
+-Add new books to the library
+-Register new members
+-Borrow and return books
+-Track book availability
+-Store and load all data using JSON files
+-Auto-generate a library analytics report:
+-Total books
+-Available and borrowed books
+-Total members
+-Active members
+-Most borrowed book
